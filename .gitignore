@@ -1,0 +1,5 @@
+_book
+assets/
+.idea
+node_modules/
+.DS_Store
