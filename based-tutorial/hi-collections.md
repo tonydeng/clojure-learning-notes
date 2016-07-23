@@ -318,7 +318,7 @@ vec
 
 ## 除了本文介绍的方法之外，操作集合的函数还有很多
 
-你可以访问 http://clojuredocs.org/ 查阅 API[2] 的小例子，也可以访问官方网站 http://clojure.github.io/clojure/ 来直接查阅官方 `API` 说明，英文苦手们可以访问中文翻译项目 http://clojure-api-cn.readthedocs.io/en/latest/
+你可以访问 http://clojuredocs.org/ 查阅 API[ [2] ](#api) 的小例子，也可以访问官方网站 http://clojure.github.io/clojure/ 来直接查阅官方 `API` 说明，英文苦手们可以访问中文翻译项目 http://clojure-api-cn.readthedocs.io/en/latest/
 
 
 <span id="structure"></span>[1]: 数据结构：简单来说，就是如何“摆放”值，和如何对值进行操作的一种抽象 [↩](#fn_link_structure)
