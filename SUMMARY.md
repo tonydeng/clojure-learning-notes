@@ -5,3 +5,6 @@
 	* [初探 Clojure](based-tutorial/first-exploration.md)
 	* [你好，集合](based-tutorial/hi-collections.md)
 	* [绑定与解构](based-tutorial/binding-and-deconstruction.md)
+	* [以不变应万变](based-tutorial/an-all-purpose.md)
+	* [我来组成函数~](based-tutorial/i-to-form-a-function.md)
+	* [乘法口诀表](based-tutorial/multiplication-tables.md)
