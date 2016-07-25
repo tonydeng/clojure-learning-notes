@@ -8,3 +8,4 @@
 	* [以不变应万变](based-tutorial/an-all-purpose.md)
 	* [我来组成函数~](based-tutorial/i-to-form-a-function.md)
 	* [乘法口诀表](based-tutorial/multiplication-tables.md)
+	* [使用Java方法](based-tutorial/using-java-method.md)
