@@ -9,3 +9,6 @@
 	* [我来组成函数~](based-tutorial/i-to-form-a-function.md)
 	* [乘法口诀表](based-tutorial/multiplication-tables.md)
 	* [使用Java方法](based-tutorial/using-java-method.md)
+* [入门教程](getting-started/README.md)
+	* [基本语法](getting-started/synatx.md)
+	* [基础数据结构](getting-started/data-structure.md)
