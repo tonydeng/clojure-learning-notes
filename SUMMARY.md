@@ -12,3 +12,4 @@
 * [入门教程](getting-started/README.md)
 	* [基本语法](getting-started/synatx.md)
 	* [基础数据结构](getting-started/data-structure.md)
+	* [函数](getting-started/function.md)
