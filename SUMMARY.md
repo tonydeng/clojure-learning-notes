@@ -17,4 +17,5 @@
 	* [宏](getting-started/macro.md)
 	* [并发](getting-started/concurrency.md)
 	* [多态性](getting-started/polymorphism.md)
+	* [Leiningen](getting-started/leiningen.md)
 
