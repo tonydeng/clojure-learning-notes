@@ -12,3 +12,12 @@
 * [入门教程](getting-started/README.md)
 	* [基本语法](getting-started/synatx.md)
 	* [基础数据结构](getting-started/data-structure.md)
+	* [函数](getting-started/function.md)
+	* [抽象](getting-started/abstraction.md)
+	* [宏](getting-started/macro.md)
+	* [并发](getting-started/concurrency.md)
+	* [多态性](getting-started/polymorphism.md)
+	* [Leiningen](getting-started/leiningen.md)
+* [函数式编程之Clojure](notes/functional-programming-clojure.md)
+
+
